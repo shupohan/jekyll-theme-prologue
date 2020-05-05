@@ -6,7 +6,7 @@ order: 3
 ---
 
 {% for category in site.categories %}
-{%- if category[0] != 'blog' -%}
+{%- if category[0] != 'my_blog' -%}
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
