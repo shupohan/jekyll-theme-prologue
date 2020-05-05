@@ -3,6 +3,7 @@ title: Third Post
 author: Chris
 layout: post
 icon: fa-lightbulb
+categories: blog
 icon-style: regular
 ---
 See the icon?
