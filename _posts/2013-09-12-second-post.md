@@ -1,6 +1,7 @@
 ---
 title: Second Post
 author: Chris
+categories: blog
 layout: post
 ---
 
