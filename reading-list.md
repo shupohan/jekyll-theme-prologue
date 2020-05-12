@@ -6,17 +6,12 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I love books! Here are some I have read:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+1. *A Gentleman in Moscow*
+2. *The Culture Code*
+3. *The Richest Man in Babylon*
+4. *Rich Dad Poor Dad*
+5. *Harry Potter series*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+source: [The Guardian](https://shupohan.github.io/reading-list.html)
