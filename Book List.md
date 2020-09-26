@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes
+title: Reading List
 icon: fa-book-open
 order: 3
 ---
