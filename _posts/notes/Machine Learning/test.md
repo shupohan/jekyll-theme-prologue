@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Notes
-icon: fa-pencil-alt
+title: "Machine Learning"
+date: 2020-09-26
+categories: Machine-Learning
 order: 3
 ---
 
